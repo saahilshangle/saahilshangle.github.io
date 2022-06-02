@@ -1,7 +1,5 @@
-****Personal Website****<br>
-*Saahil Shangle*
+# carolynwang.github.io
+this is my personal website
 
-This site was built using a template from HTML5UP. The license can be found in the file titled `LICENSE.txt`.
-
-*Architecture*<br>
-Static website built from `index.html` with all the media assets stored in the associated folders.
+ya'll, I can code... but front-end is a whole other story.
+i started out with [this template](https://html5up.net/forty) and modified from there.
