@@ -1,5 +1,4 @@
-# carolynwang.github.io
-this is my personal website
+# saahilshangle.github.io
+This is my personal website and basic photography portfolio!
 
-ya'll, I can code... but front-end is a whole other story.
-i started out with [this template](https://html5up.net/forty) and modified from there.
+Total website design and creative layout credit to Carolyn Wang. I used her source code at carolynwang.github.io. 
