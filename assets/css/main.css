@@ -256,6 +256,18 @@ a {
     text-decoration: none;
 }
 
+a:link {
+    border-bottom-color: transparent;
+    color: #969696 !important;
+    text-decoration: none;
+}
+
+a:visited {
+    border-bottom-color: transparent;
+    color: #969696 !important;
+    text-decoration: none;
+}
+
 a:hover {
     border-bottom-color: transparent;
     color: #969696 !important;
